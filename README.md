@@ -2,8 +2,8 @@
 
 Welcome to my new repo! My ebay_dl.py file will scrape eBay for any search term you input and return an organized JSON file of the results. The main steps are <ol><li>generate the url</li><li>download the first ten pages</li><li>create dictionaries for certain charecteristics of the listing</li>
   
- #Here is how you would run the file: 
- ###You can add custom page numbers but the default is 10 and I will use that
+ # Here is how you would run the file: 
+ ### You can add custom page numbers but the default is 10 and I will use that
   
         python3 ebay.dl 'search_term' 
   
