@@ -1,4 +1,4 @@
-# eBayAssignment
+# eBay Assignment
 
 Welcome to my new repo! My ebay_dl.py file will scrape eBay for any search term you input and return an organized JSON file of the results. The main steps are <ol><li>generate the url</li><li>download the first ten pages</li><li>create dictionaries for certain charecteristics of the listing</li>
   
